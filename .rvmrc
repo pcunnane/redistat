@@ -1,1 +1,1 @@
-rvm gemset use redistat
+rvm use @redistat --create
